@@ -1,13 +1,13 @@
 ## Instructions and project structure
 
-| Group Member       | Role     |
-| ------------------ | -------- |
-| Elrico Competente  | FrontEnd |
-| Tomin Jessil       | FrontEnd |
-| Liam McRobbie      | BackEnd  |
-| Kevin Lee          | FrontEnd |
-| Raneldo Livapulu   | BackEnd  |
-| Dominic Tomas      | BackEnd  |
+| Group Member       |
+| ------------------ |
+| Elrico Competente  |
+| Tomin Jessil       |
+| Liam McRobbie      |
+| Kevin Lee          |
+| Raneldo Livapulu   |
+| Dominic Tomas      |
 
 ### Folders in the project
 * Game files - src/nz/ac/vuw/ecs/swen225/gp22/...
